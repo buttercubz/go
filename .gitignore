@@ -1,3 +1,3 @@
-/public/dist/
+/client/public/dist/
 .DS_Store
-/dist
+dist
