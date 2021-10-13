@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "start": "go run .",
+    "install": "go get -u",
+    "build": "cd ./client; snel build;"
+  }
+}
